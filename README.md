@@ -78,3 +78,5 @@ Setup projects array
 #### Setup Products Component
 
 Render data in Products component
+
+Test
